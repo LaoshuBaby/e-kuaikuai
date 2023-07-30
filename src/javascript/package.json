@@ -1,0 +1,22 @@
+{
+  "name": "e-kuaikuai",
+  "version": "1.0.0",
+  "description": "請你乖乖的不要宕機喔！",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaoshuBaby/kuaikuai.git"
+  },
+  "keywords": [
+    "kuaikuai"
+  ],
+  "author": "快乐的老鼠宝宝 <laoshubaby@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaoshuBaby/kuaikuai/issues"
+  },
+  "homepage": "https://github.com/LaoshuBaby/kuaikuai#readme"
+}
