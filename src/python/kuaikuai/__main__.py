@@ -1,8 +1,9 @@
 # import argparse
+from rich import print
 
 
 def main():
-    print("請你乖乖的不要宕機喔！")
+    print("[bold green]請你乖乖的不要宕機喔！[/bold green]!")
 
 
 if __name__ == "__main__":
