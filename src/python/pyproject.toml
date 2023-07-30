@@ -5,6 +5,7 @@ description = "請你乖乖的不要宕機喔！"
 authors = ["快乐的老鼠宝宝 <laoshubaby@protonmail.com>"]
 license = "MIT"
 readme = "README.md"
+packages = [{ include = "kuaikuai"}]
 
 [tool.poetry.dependencies]
 python = "^3.6"
